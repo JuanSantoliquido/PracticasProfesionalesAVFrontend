@@ -1,0 +1,30 @@
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\appsettings.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\Aplicacion Web Anses.staticwebassets.runtime.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\Aplicacion Web Anses.exe
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\Aplicacion Web Anses.deps.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\Aplicacion Web Anses.runtimeconfig.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\Aplicacion Web Anses.dll
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\bin\Debug\net8.0\Aplicacion Web Anses.pdb
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.AssemblyInfo.cs
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.RazorAssemblyInfo.cache
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.RazorAssemblyInfo.cs
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets\msbuild.Aplicacion Web Anses.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets\msbuild.build.Aplicacion Web Anses.props
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Aplicacion Web Anses.props
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Aplicacion Web Anses.props
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\scopedcss\bundle\Aplicacion Web Anses.styles.css
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\scopedcss\projectbundle\Aplicacion Web Anses.bundle.scp.css
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.dll
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\refint\Aplicacion Web Anses.dll
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.pdb
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\Aplicacion Web Anses.genruntimeconfig.cache
+C:\Users\Poli\source\repos\Aplicacion Web Anses\Aplicacion Web Anses\obj\Debug\net8.0\ref\Aplicacion Web Anses.dll
